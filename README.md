@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project demonstrates how to use Python decorators to format messages with a ****.
+This project demonstrates how to use Python decorators to format messages with a ****football theme****.
 
 ## How to Run
 
